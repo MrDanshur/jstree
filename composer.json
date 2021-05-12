@@ -1,7 +1,7 @@
 {
-	"name": "vakata/jstree",
+	"name": "mrdanshur/jstree",
 	"description": "jsTree is jquery plugin, that provides interactive trees.",
-	"type": "component",
+	"type": "library",
 	"homepage": "http://jstree.com",
 	"license": "MIT",
 	"support": {
@@ -17,9 +17,6 @@
 	],
 	"require": {
 		"components/jquery": ">=1.9.1"
-	},
-	"suggest": {
-		"robloach/component-installer": "Allows installation of Components via Composer"
 	},
 	"extra": {
 		"component": {
